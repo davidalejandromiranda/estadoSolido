@@ -2,9 +2,9 @@
 
 Las contribuciones que se suban deben respetar la estructura del directorio construido para tal fin.  No se deben borrar los Notebooks.
 
-Los nombres de los archivos deben tener la siguiente estructura:
+Por favor, nombrar los Notebooks utilizando estilo [CamelCase](https://es.wikipedia.org/wiki/Camel_case) así: 
 
-S<número de la sesión>_<Grupo colaborativo, eg, G1>_<descripción corta en cammelCase>
+S<número de la sesión><Grupo colaborativo, eg, G1><descripción corta en cammelCase>
 
 Por ejemplo,
 
