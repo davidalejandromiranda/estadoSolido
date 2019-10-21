@@ -10,6 +10,6 @@ El material incluye contribuciones del profesor David A. Miranda y algunos estud
 
 ## 4. Estructura de bandas electrónicas: energía para electrones en un cristal
 + [Cristal 2D con red cuadrada](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_EnergiaCelda2D_ElectronLibre.ipynb), aproximación del electrón libre.
-+ **Cristal 3D con red FCC** en la aproximación de electrón libre,
- + [Jupyter Notebook G4](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_G4_EstructuraBandasFCC/S4_G4_EstructuraBandasFCC.ipynb). [Video explicativo](https://youtu.be/4O8R89EQ-Sw)
- + [Jupyter Notebook G6](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_G6_EstructuraBandasFCC.ipynb). [Video explicativo](https://www.youtube.com/watch?v=UgMqRMoqquI).
++ **Cristal 3D con red FCC** en la aproximación de electrón libre:
+   + [Jupyter Notebook G4](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_G4_EstructuraBandasFCC/S4_G4_EstructuraBandasFCC.ipynb): [Video explicativo](https://youtu.be/4O8R89EQ-Sw)
+   + [Jupyter Notebook G6](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_G6_EstructuraBandasFCC.ipynb): [Video explicativo](https://www.youtube.com/watch?v=UgMqRMoqquI).
