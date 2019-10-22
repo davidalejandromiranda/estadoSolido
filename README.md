@@ -12,4 +12,5 @@ El material incluye contribuciones del profesor David A. Miranda y algunos estud
 + [Cristal 2D con red cuadrada](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_EnergiaCelda2D_ElectronLibre.ipynb), aproximación del electrón libre.
 + **Cristal 3D con red FCC** en la aproximación de electrón libre:
    + [Jupyter Notebook G4](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_G4_EstructuraBandasFCC/S4_G4_EstructuraBandasFCC.ipynb): [Video explicativo](https://youtu.be/4O8R89EQ-Sw)
+   + [Jupyter Notebook G5](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_G5_EstructuraBandasFCC3D.py): [Video explicativo](https://www.youtube.com/watch?v=5Un1PHzJYC4&feature=youtu.be)
    + [Jupyter Notebook G6](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_G6_EstructuraBandasFCC.ipynb): [Video explicativo](https://www.youtube.com/watch?v=UgMqRMoqquI).
