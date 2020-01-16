@@ -14,4 +14,4 @@ El material incluye contribuciones del profesor David A. Miranda y algunos estud
    + [Jupyter Notebook G4](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_G4_EstructuraBandasFCC/S4_G4_EstructuraBandasFCC.ipynb): [Video explicativo](https://youtu.be/4O8R89EQ-Sw)
    + [Jupyter Notebook G5](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_G5_EstructuraBandasFCC3D.py): [Video explicativo](https://www.youtube.com/watch?v=5Un1PHzJYC4&feature=youtu.be)
    + [Jupyter Notebook G6](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_G6_EstructuraBandasFCC.ipynb): [Video explicativo](https://www.youtube.com/watch?v=UgMqRMoqquI).
-+ [Cristal 1D con un electrón por átomo](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S5_Energia celda 1D_Tight-Binding.ipynb), aproximación Tight-Binding.
++ [Cristal 1D con un electrón por átomo](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S5_EnergiaCelda1D_Tight-Binding.ipynb), aproximación Tight-Binding.
