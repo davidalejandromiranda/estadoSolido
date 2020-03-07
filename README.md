@@ -15,3 +15,6 @@ El material incluye contribuciones del profesor David A. Miranda y algunos estud
    + [Jupyter Notebook G5](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_G5_EstructuraBandasFCC3D.py): [Video explicativo](https://www.youtube.com/watch?v=5Un1PHzJYC4&feature=youtu.be)
    + [Jupyter Notebook G6](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S4_G6_EstructuraBandasFCC.ipynb): [Video explicativo](https://www.youtube.com/watch?v=UgMqRMoqquI).
 + [Cristal 1D con un electrón por átomo](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S5_EnergiaCelda1D_Tight-Binding.ipynb), aproximación Tight-Binding.
+
+## 5. Propiedades electrónicas
++ [Coeficiente de absorción para una nanoestructura](https://github.com/davidalejandromiranda/estadoSolido/blob/master/Coeficiente de absorción.ipynb): se presenta una breve descripción teórica para calcular el coeficiente de absorción para un sistema cuántico conformado por electrón en una caja de dimensiones nanométricas.
