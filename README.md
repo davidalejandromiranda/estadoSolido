@@ -17,4 +17,4 @@ El material incluye contribuciones del profesor David A. Miranda y algunos estud
 + [Cristal 1D con un electrón por átomo](https://github.com/davidalejandromiranda/estadoSolido/blob/master/S5_EnergiaCelda1D_Tight-Binding.ipynb), aproximación Tight-Binding.
 
 ## 5. Propiedades electrónicas
-+ [Coeficiente de absorción para una nanoestructura]("https://github.com/davidalejandromiranda/estadoSolido/blob/master/Coeficiente de absorción.ipynb"): se presenta una breve descripción teórica para calcular el coeficiente de absorción para un sistema cuántico conformado por electrón en una caja de dimensiones nanométricas.
++ [Coeficiente de absorción para una nanoestructura](https://github.com/davidalejandromiranda/estadoSolido/blob/master/NanoEstructura_CoeficienteAbsorción.ipynb): se presenta una breve descripción teórica para calcular el coeficiente de absorción para un sistema cuántico conformado por electrón en una caja de dimensiones nanométricas.
